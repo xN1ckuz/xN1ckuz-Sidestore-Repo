@@ -2,7 +2,7 @@
     "name": "xN1ckuz Source",
     "subtitle": "All my apps in one place.",
     "description": "Welcome to my source! Here you'll find all of my apps.",
-    "iconURL": "https://avatars.githubusercontent.com/u/74825012?v=4",
+    "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
     "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
     "website": "https://example.com",
     "tintColor": "#4185A9",
@@ -17,11 +17,11 @@
             "developerName": "Eevee",
             "subtitle": "An awesome app.",
             "localizedDescription": "This is an awesome app only available on AltStore.",
-            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+            "iconURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/EeveeSpotify/icon.png",
             "tintColor": "#5CA399",
             "screenshots": [
-                "https://example.com/myapp_portrait_screenshot1.png",
-                "https://example.com/myapp_portrait_screenshot2.png",
+                "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/EeveeSpotify/screenshot_0.png",
+                "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/EeveeSpotify/screenshot_0.png",
                 {
                     "imageURL": "https://example.com/myapp_landscape_screenshot.png",
                     "width": 2556,
