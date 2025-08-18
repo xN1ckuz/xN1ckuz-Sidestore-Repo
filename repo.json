@@ -1,11 +1,11 @@
 {
-    "name": "xN1ckuz Source",
-    "subtitle": "All my apps in one place.",
-    "description": "Welcome to my source! Here you'll find all of my apps.",
-    "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
+    "name": "xN1ckuz's Library",
+    "subtitle": "Tweaked & Custom Apps, All in One Repo.",
+    "description": "Welcome to my source! 🎉\nHere you'll find IPA apps and tweaks, always updated and ready for download via Sidestore/AltStore.",
+    "iconURL": "https://avatars.githubusercontent.com/u/74825012?v=4",
     "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
-    "website": "https://example.com",
-    "tintColor": "#4185A9",
+    "website": "https://github.com/xN1ckuz",
+    "tintColor": "#0CB2B2",
     "featuredApps": [
         "com.spotify.client",
         "com.google.ios.youtube"
@@ -29,7 +29,7 @@
                 "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/EeveeSpotify/screenshot_5.png",
                 "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/EeveeSpotify/screenshot_6.png",
                 "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/EeveeSpotify/screenshot_7.png",
-                "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/EeveeSpotify/screenshot_8.png",
+                "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/EeveeSpotify/screenshot_8.png"
             ],
             "versions": [
                 {
@@ -37,84 +37,67 @@
                     "date": "2025-08-13T14:27:00+02:00",
                     "size": 83500000,
                     "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/EeveeSpotify/EeveeSpotify_6.1_9.0.68.ipa",
-                    "localizedDescription": "Update Spotify to 9.0.68",
+                    "localizedDescription": "• Updated Spotify to 9.0.68\n• Updated EeveeSpotify v6.1\n• EeveeSpotify Premium Plan Info\n• Resolved crashes caused by out-of-order LRCLIB lines\n• Updated Catalan localization\n• Updated French localization",
                     "minOSVersion": "16.1"
-                },
-                {
-                    "version": "1.0",
-                    "date": "2022-03-16T07:00:00-08:00",
-                    "size": 10000000,
-                    "downloadURL": "https://example.com/myapp_v1.0.ipa",
-                    "localizedDescription": "Initial release."
                 }
             ],
             "appPermissions": {
                 "entitlements": [
                     "com.apple.security.application-groups",
-                    "com.apple.developer.siri"
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.carplay-audio",
+                    "get-task-allow",
+                    "com.apple.developer.group-session",
+                    "com.apple.developer.healthkit",
+                    "keychain-access-groups",
+                    "com.apple.developer.networking.multicast",
+                    "aps-environment",
+                    "com.apple.developer.healthkit.access",
+                    "com.apple.developer.applesignin",
+                    "com.apple.developer.siri",
+                    "com.apple.developer.networking.wifi-info"
                 ],
                 "privacy": {
-                    "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
-                    "NSCameraUsageDescription": "App uses camera to take photos.",
-                    "NSMicrophoneUsageDescription": "App uses microphone to record video."
+                    "NSAppleMusicUsageDescription" : "App accesses Apple Music for streaming music.",
+                    "NSBluetoothAlwaysUsageDescription" : "App requires continuous access to Bluetooth.",
+                    "NSBluetoothPeripheralUsageDescription" : "App uses Bluetooth for peripheral devices.",
+                    "NSCameraUsageDescription" : "App uses the camera for capturing photos or videos.",
+                    "NSFaceIDUsageDescription" : "App uses Face ID for authentication.",
+                    "NSHealthUpdateUsageDescription" : "App updates health-related data in Health.",
+                    "NSHealthShareUsageDescription" : "App shares health-related data with Health.",
+                    "NSLocalNetworkUsageDescription" : "App accesses devices on the local network.",
+                    "NSMicrophoneUsageDescription" : "App uses the microphone to record audio.",
+                    "NSMotionUsageDescription" : "App uses motion sensors for tracking movement.",
+                    "NSPhotoLibraryAddUsageDescription" : "App adds photos to the user's photo library.",
+                    "NSPhotoLibraryUsageDescription" : "App accesses the user's photo library.",
+                    "NSUserTrackingUsageDescription" : "App tracks user activity for advertising purposes."
                 }
             }
         },
         {
-            "name": "Youtube",
+            "name": "YouTube Plus",
             "bundleIdentifier": "com.google.ios.youtube",
-            "developerName": "Example Developer",
-            "subtitle": "Another awesome app.",
-            "localizedDescription": "This is another awesome app only available on AltStore.",
-            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/SharkApp.png",
-            "tintColor": "#3660A2",
-            "screenshots": {
-                "iphone": [
-                    "https://example.com/anotherapp_portrait_1.png",
-                    "https://example.com/anotherapp_portrait_2.png",
-                    {
-                        "imageURL": "https://example.com/anotherapp_landscape.png",
-                        "width": 2556,
-                        "height": 1179
-                    }
-                ],
-                "ipad": [
-                    {
-                        "imageURL": "https://example.com/anotherapp_ipad_portrait.png",
-                        "width": 1668,
-                        "height": 2388
-                    },
-                    {
-                        "imageURL": "https://example.com/anotherapp_ipad_landscape.png",
-                        "width": 2388,
-                        "height": 1668
-                    }
-                ]
-            },
+            "developerName": "Dayanch96",
+            "subtitle": "YouTube Premium Tweak.",
+            "localizedDescription": "A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.\nMain Features:\n• Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n• Copy video, comment, and post information\n •Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n• Player settings: Gestures, default quality, preferred audio track\n• Save, Load and Restore settings. Clear cache once or automatically on app startup\n• Built-in SponsorBlock\nYouTube Plus preferences can be found in the YouTube Settings.",
+            "iconURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YouTubePlus/icon.png",
+            "tintColor": "f90505",
+            "category": "Entertainment",
+            "screenshots": [
+                "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YouTubePlus/screenshot_0.png",
+                "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YouTubePlus/screenshot_1.png",
+                "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YouTubePlus/screenshot_2.png",
+                "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YouTubePlus/screenshot_3.png",
+                "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YouTubePlus/screenshot_4.png",
+            ],     
             "versions": [
                 {
-                    "version": "1.2",
-                    "date": "2022-06-21T09:00:00-08:00",
-                    "downloadURL": "https://example.com/anotherapp_v1.2.ipa",
-                    "localizedDescription": "Bug fixes and performance improvements.",
-                    "size": 81514,
-                    "minOSVersion": "13.0"
-                },
-                {
-                    "version": "1.1",
-                    "date": "2022-04-15T10:00:00-08:00",
-                    "downloadURL": "https://example.com/anotherapp_v1.1.ipa",
-                    "localizedDescription": "New features!",
-                    "size": 81364,
-                    "minOSVersion": "13.0",
-                    "maxOSVersion": "16.3"
-                },
-                {
-                    "version": "1.0",
-                    "date": "2022-02-02T07:00:00-08:00",
-                    "downloadURL": "https://example.com/anotherapp_v1.0.ipa",
-                    "localizedDescription": "Initial release.",
-                    "size": 79821
+                    "version": "20.32.5",
+                    "date": "2025-08-18T16:18:00+02:00",
+                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YouTubePlus/YouTubePlus_5.2b3_20.32.5.ipa",
+                    "localizedDescription": "• Updated YouTube to 20.32.5\n • Updated Tweak to 5.2b3\n",
+                    "size": 112000000,
+                    "minOSVersion": "16.0"
                 }
             ],
             "appPermissions": {
@@ -138,16 +121,6 @@
             "imageURL": "https://example.com/new_feature_image.png",
             "notify": true,
             "url": "https://example.com/new_feature_details"
-        },
-        {
-            "title": "App Update Available",
-            "identifier": "app_update",
-            "caption": "An update is available for My Example App.",
-            "date": "2023-03-10T10:00:00-07:00",
-            "tintColor": "#3660A2",
-            "imageURL": "https://example.com/app_update_image.png",
-            "notify": false,
-            "appID": "com.example.myapp"
         }
     ]
 }
