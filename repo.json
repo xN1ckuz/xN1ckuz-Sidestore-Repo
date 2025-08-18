@@ -37,7 +37,7 @@
                     "date": "2025-08-18T21:25:00+02:00",
                     "size": 83900000,
                     "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/EeveeSpotify/EeveeSpotify_6.1.1_9.0.70.ipa",
-                    "localizedDescription": "• Updated Spotify to 9.0.70\n• Updated EeveeSpotify v6.1.1\n• OpenSpotifySafariExtensionincluded\n• Fixed player crashes\n• Updated Spanish localization\n• Updated Ukrainian localization\n• Updated French localization\n• Updated Danish localization\n• Updated Traditional Chinese localizaton\n• Updated Nepalese localization",
+                    "localizedDescription": "• Updated Spotify to 9.0.70\n• Updated EeveeSpotify v6.1.1\n• OpenSpotifySafariExtension included\n• Fixed player crashes\n• Updated Spanish localization\n• Updated Ukrainian localization\n• Updated French localization\n• Updated Danish localization\n• Updated Traditional Chinese localizaton\n• Updated Nepalese localization",
                     "minOSVersion": "16.1"
                 },
                 {
@@ -45,7 +45,7 @@
                     "date": "2025-08-13T14:27:00+02:00",
                     "size": 83500000,
                     "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/EeveeSpotify/EeveeSpotify_6.1_9.0.68.ipa",
-                    "localizedDescription": "• Updated Spotify to 9.0.68\n• Updated EeveeSpotify v6.1\n• OpenSpotifySafariExtensionincluded\n• EeveeSpotify Premium Plan Info\n• Resolved crashes caused by out-of-order LRCLIB lines\n• Updated Catalan localization\n• Updated French localization",
+                    "localizedDescription": "• Updated Spotify to 9.0.68\n• Updated EeveeSpotify v6.1\n• OpenSpotifySafariExtension included\n• EeveeSpotify Premium Plan Info\n• Resolved crashes caused by out-of-order LRCLIB lines\n• Updated Catalan localization\n• Updated French localization",
                     "minOSVersion": "16.1"
                 }
             ],
