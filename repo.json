@@ -1,9 +1,9 @@
 {
-    "name": "xN1ckuz's Library",
+    "name": "xN1ckuz's SideBox",
     "subtitle": "Tweaked & Custom Apps, All in One Repo.",
     "description": "Welcome to my source! 🎉\nHere you'll find IPA apps and tweaks, always updated and ready for download via Sidestore/AltStore.",
     "iconURL": "https://avatars.githubusercontent.com/u/74825012?v=4",
-    "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
+    "headerURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/header.jpg",
     "website": "https://github.com/xN1ckuz",
     "tintColor": "#0CB2B2",
     "featuredApps": [
@@ -12,13 +12,13 @@
     ],
     "apps": [
         {
-            "name": "Spotify",
+            "name": "Spotify Premium",
             "bundleIdentifier": "com.spotify.client",
             "developerName": "Eevee",
             "subtitle": "Spotify Premium Tweak.",
-            "localizedDescription": "This tweak makes Spotify think that you have a Premium subscription, granting free listening, just like Spotilife.\n\nAlthough there are restrictions:\n\n• Using \"Very High\" audio quality\n• Downloading songs/playlists (podcast downloads work, though)\n",
+            "localizedDescription": "Eevee Spotify\nThis tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.\nRestrictions\n• Very High audio quality\n• Native playlist downloading (you can download podcast episodes though)\n• Jam (hosting a Spotify Jam and joining it remotely requires Premium; only joining in-person works)\n• AI DJ/Playlist\n• Spotify Connect (When using Spotify Connect, the device will act as a remote control and stream directly to the connected device. This is a server-sided limitation and is beyond the control of EeveeSpotify, so it will behave as if you have a Free subscription while using this feature.)\nLyrics Support\nEeveeSpotify replaces Spotify monthly limited lyrics with one of the following four lyrics providers:\n• Genius: Offers the best quality lyrics, provides the most songs, and updates lyrics the fastest. Does not and will never be time-synced.\n• LRCLIB: The most open service, offering time-synced lyrics. However, it lacks lyrics for many songs.\n• Musixmatch: The service Spotify uses. Provides time-synced lyrics for many songs, but you'll need a user token to use this source. To obtain the token, download Musixmatch from the App Store, sign up, then go to Settings > Get help > Copy debug info, and paste it into EeveeSpotify alert. You can also extract the token using MITM.\n• PetitLyrics: Offers plenty of time-synced Japanese and some international lyrics.\nIf the tweak is unable to find a song or process the lyrics, you'll see a \"Couldn't load the lyrics for this song\" message. The lyrics might be wrong for some songs when using Genius due to how the tweak searches songs. While I've made it work in most cases, kindly refrain from opening issues about it.",
             "iconURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/EeveeSpotify/icon.png",
-            "tintColor": "1fd362",
+            "tintColor": "#1FD362",
             "category": "Entertainment",
             "screenshots": [
                 "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/EeveeSpotify/screenshot_0.png",
@@ -103,32 +103,56 @@
                     "version": "20.32.5",
                     "date": "2025-08-18T16:18:00+02:00",
                     "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YouTubePlus/YouTubePlus_5.2b3_20.32.5.ipa",
-                    "localizedDescription": "• Updated YouTube to 20.32.5\n • Updated Tweak to 5.2b3\n",
+                    "localizedDescription": "• Updated YouTube to 20.32.5\n• Updated Tweak to 5.2b3\n",
                     "size": 112000000,
                     "minOSVersion": "16.0"
                 }
             ],
             "appPermissions": {
                 "entitlements": [
-                    "com.apple.developer.healthkit",
-                    "com.apple.developer.game-center"
+                    "com.apple.developer.usernotifications.communication",
+                    "com.apple.developer.usernotifications.time-sensitive",
+                    "com.apple.developer.group-session",
+                    "com.apple.developer.networking.multicast",
+                    "com.apple.developer.networking.wifi-info",
+                    "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.device-information.user-assigned-device-name",
+                    "com.apple.developer.siri",
+                    "com.apple.developer.storekit.request-data",
+                    "com.apple.security.application-groups"
                 ],
                 "privacy": {
-                    "NSLocalNetworkUsageDescription": "App scans the local network for nearby computers."
+                    "NSAppleMusicUsageDescription" : "App accesses Apple Music for streaming music.",
+                    "NSBluetoothPeripheralUsageDescription" : "App uses Bluetooth for peripheral devices.",
+                    "NSCameraUsageDescription" : "App uses the camera for capturing photos or videos.",
+                    "NSLocalNetworkUsageDescription": "App scans the local network for nearby computers.",
+                    "NSMicrophoneUsageDescription" : "App uses the microphone to record audio.",
+                    "NSPhotoLibraryUsageDescription" : "App accesses the user's photo library.",
+                    "NSUserTrackingUsageDescription" : "App tracks user activity for advertising purposes."
                 }
             }
         }
     ],
     "news": [
         {
-            "title": "New Feature Announcement",
-            "identifier": "new_feature",
-            "caption": "Introducing a new feature in AltStore!",
-            "date": "2023-03-15",
-            "tintColor": "#5CA399",
-            "imageURL": "https://example.com/new_feature_image.png",
+            "title": "Spotify Updated",
+            "identifier": "spotify_update",
+            "caption": "Spotify Premium Updated by Eevee",
+            "date": "2025-08-18",
+            "tintColor": "#1FD362",
+            "imageURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/EeveeSpotify/news.png",
             "notify": true,
-            "url": "https://example.com/new_feature_details"
+            "appID" : "com.spotify.client"
+        }, 
+        {
+            "title": "Say Hello to My Source",
+            "identifier": "new_repo",
+            "caption": "Introducing a new SideStore Repository",
+            "date": "2025-08-17",
+            "tintColor": "#0CB2B2",
+            "imageURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/header.jpg",
+            "notify": true,
         }
     ]
 }
