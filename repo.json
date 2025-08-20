@@ -101,9 +101,17 @@
             "versions": [
                 {
                     "version": "20.33.2",
+                    "date": "2025-08-20T19:35:00+02:00",
+                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YouTubePlus/YouTubePlus_5.2b3_20.33.2.ipa",
+                    "localizedDescription": "• Updated YouTube to 20.33.2\n• Updated Tweak to 5.2b3\n",
+                    "size": 114000000,
+                    "minOSVersion": "16.0"
+                },
+                {
+                    "version": "20.33.1",
                     "date": "2025-08-20T18:39:00+02:00",
                     "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YouTubePlus/YouTubePlus_5.2b2_20.33.2.ipa",
-                    "localizedDescription": "• Updated YouTube to 20.33.2\n• Revert Tweak back to 5.2b2\n",
+                    "localizedDescription": "• Updated YouTube to 20.33.1\n• Revert Tweak back to 5.2b2\n",
                     "size": 112000000,
                     "minOSVersion": "16.0"
                 },
