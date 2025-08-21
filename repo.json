@@ -33,10 +33,18 @@
             ],
             "versions": [
                 {
+                    "version": "9.0.72",
+                    "date": "2025-08-21T15:07:00+02:00",
+                    "size": 84300000,
+                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/EeveeSpotify/EeveeSpotify-9.0.72.ipa",
+                    "localizedDescription": "• Updated Spotify to 9.0.72\n• Updated EeveeSpotify v6.1.2\n• OpenSpotifySafariExtension included\n• Updated Simplified Chinese localizaton",
+                    "minOSVersion": "16.1"
+                },
+                {
                     "version": "9.0.70",
                     "date": "2025-08-18T21:25:00+02:00",
                     "size": 83900000,
-                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/EeveeSpotify/EeveeSpotify_6.1.1_9.0.70.ipa",
+                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/EeveeSpotify/EeveeSpotify-9.0.70.ipa",
                     "localizedDescription": "• Updated Spotify to 9.0.70\n• Updated EeveeSpotify v6.1.1\n• OpenSpotifySafariExtension included\n• Fixed player crashes\n• Updated Spanish localization\n• Updated Ukrainian localization\n• Updated French localization\n• Updated Danish localization\n• Updated Traditional Chinese localizaton\n• Updated Nepalese localization",
                     "minOSVersion": "16.1"
                 },
@@ -44,7 +52,7 @@
                     "version": "9.0.68",
                     "date": "2025-08-13T14:27:00+02:00",
                     "size": 83500000,
-                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/EeveeSpotify/EeveeSpotify_6.1_9.0.68.ipa",
+                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/EeveeSpotify/EeveeSpotify-9.0.68.ipa",
                     "localizedDescription": "• Updated Spotify to 9.0.68\n• Updated EeveeSpotify v6.1\n• OpenSpotifySafariExtension included\n• EeveeSpotify Premium Plan Info\n• Resolved crashes caused by out-of-order LRCLIB lines\n• Updated Catalan localization\n• Updated French localization",
                     "minOSVersion": "16.1"
                 }
@@ -144,23 +152,14 @@
     ],
     "news": [
         {
-            "title": "Spotify Updated",
+            "title": "Spotify Update - 9.0.72\n21/08/2025",
             "identifier": "spotify_update",
-            "caption": "Spotify Premium Updated by Eevee",
-            "date": "2025-08-18",
+            "caption": "Spotify Premium Tweak Updated by Eevee",
+            "date": "2025-08-21",
             "tintColor": "#1FD362",
             "imageURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/EeveeSpotify/news.png",
             "notify": true,
             "appID" : "com.spotify.client"
-        }, 
-        {
-            "title": "Say Hello to My Source",
-            "identifier": "new_repo",
-            "caption": "Introducing a new SideStore Repository",
-            "date": "2025-08-17",
-            "tintColor": "#0CB2B2",
-            "imageURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/header.jpg",
-            "notify": true,
         }
     ]
 }
