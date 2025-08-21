@@ -8,7 +8,8 @@
     "tintColor": "#0CB2B2",
     "featuredApps": [
         "com.spotify.client",
-        "com.google.ios.youtube"
+        "com.google.ios.youtube",
+        "com.google.ios.youtubemusic"
     ],
     "apps": [
         {
@@ -74,19 +75,22 @@
                     "com.apple.developer.networking.wifi-info"
                 ],
                 "privacy": {
-                    "NSAppleMusicUsageDescription" : "App accesses Apple Music for streaming music.",
-                    "NSBluetoothAlwaysUsageDescription" : "App requires continuous access to Bluetooth.",
-                    "NSBluetoothPeripheralUsageDescription" : "App uses Bluetooth for peripheral devices.",
-                    "NSCameraUsageDescription" : "App uses the camera for capturing photos or videos.",
-                    "NSFaceIDUsageDescription" : "App uses Face ID for authentication.",
-                    "NSHealthUpdateUsageDescription" : "App updates health-related data in Health.",
-                    "NSHealthShareUsageDescription" : "App shares health-related data with Health.",
-                    "NSLocalNetworkUsageDescription" : "App accesses devices on the local network.",
-                    "NSMicrophoneUsageDescription" : "App uses the microphone to record audio.",
-                    "NSMotionUsageDescription" : "App uses motion sensors for tracking movement.",
-                    "NSPhotoLibraryAddUsageDescription" : "App adds photos to the user's photo library.",
-                    "NSPhotoLibraryUsageDescription" : "App accesses the user's photo library.",
-                    "NSUserTrackingUsageDescription" : "App tracks user activity for advertising purposes."
+                    "NSBluetoothAlwaysUsageDescription" : "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+                    "NSCameraUsageDescription" : "This lets you scan Spotify Codes.",
+                    "NSUserTrackingUsageDescription" : "Your data will be used to deliver personalized ads or content to you.",
+                    "NSHealthUpdateUsageDescription" : "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+                    "NSMotionUsageDescription" : "We will use this to understand which audio motivates you most.",
+                    "NSBluetoothPeripheralUsageDescription" : "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+                    "NSPhotoLibraryAddUsageDescription" : "This lets you save images to your Photo Library.",
+                    "NSLocalNetworkUsageDescription" : "This lets you listen on different devices. Spotify will also get access to local audio files.",
+                    "NSHealthShareUsageDescription" : "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+                    "NSAppleMusicUsageDescription" : "This will let you play your imported music on Spotify.",
+                    "NSCalendarsUsageDescription" : "This lets Spotify view and add events to your calendar.",
+                    "NSMicrophoneUsageDescription" : "This lets you control Spotify using your voice.",
+                    "NSCalendarsWriteOnlyAccessUsageDescription" : "This lets Spotify add events to your calendar.",
+                    "NSFaceIDUsageDescription" : "This lets you set access restrictions using Face ID.",
+                    "NSContactsUsageDescription" : "This lets Spotify access calendars you may have shared with your contacts.",
+                    "NSPhotoLibraryUsageDescription" : "This lets you select images from your Photo Library."              
                 }
             }
         },
@@ -139,13 +143,65 @@
                     "com.apple.security.application-groups"
                 ],
                 "privacy": {
-                    "NSAppleMusicUsageDescription" : "App accesses Apple Music for streaming music.",
-                    "NSBluetoothPeripheralUsageDescription" : "App uses Bluetooth for peripheral devices.",
-                    "NSCameraUsageDescription" : "App uses the camera for capturing photos or videos.",
-                    "NSLocalNetworkUsageDescription": "App scans the local network for nearby computers.",
-                    "NSMicrophoneUsageDescription" : "App uses the microphone to record audio.",
-                    "NSPhotoLibraryUsageDescription" : "App accesses the user's photo library.",
-                    "NSUserTrackingUsageDescription" : "App tracks user activity for advertising purposes."
+                    "NSCameraUsageDescription" : "This lets you create videos using the app.",
+                    "NSUserTrackingUsageDescription" : "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites.",
+                    "NSBluetoothPeripheralUsageDescription" : "YouTube needs bluetooth access to scan for nearby Cast devices.",
+                    "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",      
+                    "NSAppleMusicUsageDescription" : "This lets you add your own audio files to your videos.",
+                    "NSMicrophoneUsageDescription" : "This lets you include audio with your videos and search using your voice.",
+                    "NSLocationWhenInUseUsageDescription" : "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads.",
+                    "NSContactsUsageDescription" : "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
+                    "NSPhotoLibraryUsageDescription" : "This lets you upload media you've already created."
+                }
+            }
+        },
+        {
+            "name": "YouTube Music Ultimate",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "developerName": "Dayanch96",
+            "subtitle": "YouTube Music Premium Tweak.",
+            "localizedDescription": "The best tweak for the YouTube Music on iOS.",
+            "iconURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YTMusicUltimate/icon.png",
+            "tintColor": "#D3675A",
+            "category": "Entertainment",
+            "screenshots": [
+                "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YTMusicUltimate/screenshot_0.png",
+                "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YTMusicUltimate/screenshot_1.png",
+                "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YTMusicUltimate/screenshot_2.png",
+                "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YTMusicUltimate/screenshot_3.png",
+                "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YTMusicUltimate/screenshot_4.png"
+            ],     
+            "versions": [
+                {
+                    "version": "8.33",
+                    "date": "2025-08-21T16:36:00+02:00",
+                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YTMusicUltimate/YTMusicUltimate_8.33.ipa",
+                    "localizedDescription": "• Updated YouTube Music to 8.33",
+                    "size": 91800000,
+                    "minOSVersion": "16.0"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "",
+                    "com.apple.developer.networking.wifi-info",
+                    "com.apple.developer.siri",
+                    "com.apple.developer.networking.multicast",
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
+                    "com.apple.developer.carplay-audio",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.mediasetup"      
+                ],
+                "privacy": {
+                    "NSBluetoothAlwaysUsageDescription" : "YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
+                    "NSBluetoothPeripheralUsageDescription" : "YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
+                    "NSCameraUsageDescription" : "To take a profile picture, allow YouTube Music to access your camera.",
+                    "NSContactsUsageDescription" : "This will allow you to invite your family into your membership plan.",
+                    "NSLocalNetworkUsageDescription" : "Access to your network allows YouTube Music to discover and connect to devices such as your TV.",
+                    "NSMicrophoneUsageDescription" : "This lets you include audio with your videos.",
+                    "NSPhotoLibraryAddUsageDescription" : "To save images, allow YouTube Music to access your photo library.",
+                    "NSPhotoLibraryUsageDescription" : "To choose a profile picture, allow YouTube Music to access your photos."
                 }
             }
         }
@@ -160,6 +216,26 @@
             "imageURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/EeveeSpotify/news.png",
             "notify": true,
             "appID" : "com.spotify.client"
+        },
+        {
+            "title": "YouTubePlus Update - 20.33.2\n20/08/2025",
+            "identifier": "ytplus_update",
+            "caption": "YouTubePlus Tweak Updated by Dayanch96",
+            "date": "2025-08-20",
+            "tintColor": "#F90505",
+            "imageURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YouTubePlus/news.png",
+            "notify": true,
+            "appID" : "com.google.ios.youtube"
+        },
+        {
+            "title": "YTMusic Ultimate Update - 8.33\n21/08/2025",
+            "identifier": "ytmusic_update",
+            "caption": "YTMusic Ultimate Tweak Updated by Dayanch96",
+            "date": "2025-08-21",
+            "tintColor": "#D3675A",
+            "imageURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YTMusicUltimate/news.png",
+            "notify": true,
+            "appID" : "com.google.ios.youtubemusic"
         }
     ]
 }
