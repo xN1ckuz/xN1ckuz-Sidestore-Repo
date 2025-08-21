@@ -87,7 +87,7 @@
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "Dayanch96",
             "subtitle": "YouTube Premium Tweak.",
-            "localizedDescription": "A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.\nMain Features:\n• Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n• Copy video, comment, and post information\n •Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n• Player settings: Gestures, default quality, preferred audio track\n• Save, Load and Restore settings. Clear cache once or automatically on app startup\n• Built-in SponsorBlock\nYouTube Plus preferences can be found in the YouTube Settings.",
+            "localizedDescription": "A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.\nMain Features:\n• Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n• Copy video, comment, and post information\n• Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n• Player settings: Gestures, default quality, preferred audio track\n• Save, Load and Restore settings. Clear cache once or automatically on app startup\n• Built-in SponsorBlock\nYouTube Plus preferences can be found in the YouTube Settings.",
             "iconURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YouTubePlus/icon.png",
             "tintColor": "f90505",
             "category": "Entertainment",
@@ -105,14 +105,6 @@
                     "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YouTubePlus/YouTubePlus_5.2b3_20.33.2.ipa",
                     "localizedDescription": "• Updated YouTube to 20.33.2\n• Updated Tweak to 5.2b3\n",
                     "size": 114000000,
-                    "minOSVersion": "16.0"
-                },
-                {
-                    "version": "20.33.1",
-                    "date": "2025-08-20T18:39:00+02:00",
-                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YouTubePlus/YouTubePlus_5.2b2_20.33.2.ipa",
-                    "localizedDescription": "• Updated YouTube to 20.33.1\n• Revert Tweak back to 5.2b2\n",
-                    "size": 112000000,
                     "minOSVersion": "16.0"
                 },
                 {
