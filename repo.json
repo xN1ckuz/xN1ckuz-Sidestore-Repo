@@ -34,6 +34,14 @@
             ],
             "versions": [
                 {
+                    "version": "9.0.78",
+                    "date": "2025-09-10T19:39:31",
+                    "size": 89442529,
+                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/EeveeSpotify/EeveeSpotify-9.0.78.ipa",
+                    "localizedDescription": "• Updated Spotify to 9.0.78\n• Updated EeveeSpotify v6.1.3\n• OpenSpotifySafariExtension included",
+                    "minOSVersion": "16.1"
+                },
+                {
                     "version": "9.0.74",
                     "date": "2025-08-28T17:47:00+02:00",
                     "size": 84600000,
@@ -47,14 +55,6 @@
                     "size": 84300000,
                     "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/EeveeSpotify/EeveeSpotify-9.0.72.ipa",
                     "localizedDescription": "• Updated Spotify to 9.0.72\n• Updated EeveeSpotify v6.1.2\n• OpenSpotifySafariExtension included\n• Updated Simplified Chinese localizaton",
-                    "minOSVersion": "16.1"
-                },
-                {
-                    "version": "9.0.70",
-                    "date": "2025-08-18T21:25:00+02:00",
-                    "size": 83900000,
-                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/EeveeSpotify/EeveeSpotify-9.0.70.ipa",
-                    "localizedDescription": "• Updated Spotify to 9.0.70\n• Updated EeveeSpotify v6.1.1\n• OpenSpotifySafariExtension included\n• Fixed player crashes\n• Updated Spanish localization\n• Updated Ukrainian localization\n• Updated French localization\n• Updated Danish localization\n• Updated Traditional Chinese localizaton\n• Updated Nepalese localization",
                     "minOSVersion": "16.1"
                 }
             ],
@@ -75,22 +75,22 @@
                     "com.apple.developer.networking.wifi-info"
                 ],
                 "privacy": {
-                    "NSBluetoothAlwaysUsageDescription" : "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
-                    "NSCameraUsageDescription" : "This lets you scan Spotify Codes.",
-                    "NSUserTrackingUsageDescription" : "Your data will be used to deliver personalized ads or content to you.",
-                    "NSHealthUpdateUsageDescription" : "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
-                    "NSMotionUsageDescription" : "We will use this to understand which audio motivates you most.",
-                    "NSBluetoothPeripheralUsageDescription" : "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
-                    "NSPhotoLibraryAddUsageDescription" : "This lets you save images to your Photo Library.",
-                    "NSLocalNetworkUsageDescription" : "This lets you listen on different devices. Spotify will also get access to local audio files.",
-                    "NSHealthShareUsageDescription" : "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
-                    "NSAppleMusicUsageDescription" : "This will let you play your imported music on Spotify.",
-                    "NSCalendarsUsageDescription" : "This lets Spotify view and add events to your calendar.",
-                    "NSMicrophoneUsageDescription" : "This lets you control Spotify using your voice.",
-                    "NSCalendarsWriteOnlyAccessUsageDescription" : "This lets Spotify add events to your calendar.",
-                    "NSFaceIDUsageDescription" : "This lets you set access restrictions using Face ID.",
-                    "NSContactsUsageDescription" : "This lets Spotify access calendars you may have shared with your contacts.",
-                    "NSPhotoLibraryUsageDescription" : "This lets you select images from your Photo Library."              
+                    "NSBluetoothAlwaysUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+                    "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
+                    "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads or content to you.",
+                    "NSHealthUpdateUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+                    "NSMotionUsageDescription": "We will use this to understand which audio motivates you most.",
+                    "NSBluetoothPeripheralUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+                    "NSPhotoLibraryAddUsageDescription": "This lets you save images to your Photo Library.",
+                    "NSLocalNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
+                    "NSHealthShareUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+                    "NSAppleMusicUsageDescription": "This will let you play your imported music on Spotify.",
+                    "NSCalendarsUsageDescription": "This lets Spotify view and add events to your calendar.",
+                    "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
+                    "NSCalendarsWriteOnlyAccessUsageDescription": "This lets Spotify add events to your calendar.",
+                    "NSFaceIDUsageDescription": "This lets you set access restrictions using Face ID.",
+                    "NSContactsUsageDescription": "This lets Spotify access calendars you may have shared with your contacts.",
+                    "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library."
                 }
             }
         },
@@ -109,7 +109,7 @@
                 "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YouTubePlus/screenshot_2.jpg",
                 "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YouTubePlus/screenshot_3.jpg",
                 "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YouTubePlus/screenshot_4.jpg"
-            ],     
+            ],
             "versions": [
                 {
                     "version": "20.33.2",
@@ -143,15 +143,15 @@
                     "com.apple.security.application-groups"
                 ],
                 "privacy": {
-                    "NSCameraUsageDescription" : "This lets you create videos using the app.",
-                    "NSUserTrackingUsageDescription" : "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites.",
-                    "NSBluetoothPeripheralUsageDescription" : "YouTube needs bluetooth access to scan for nearby Cast devices.",
-                    "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",      
-                    "NSAppleMusicUsageDescription" : "This lets you add your own audio files to your videos.",
-                    "NSMicrophoneUsageDescription" : "This lets you include audio with your videos and search using your voice.",
-                    "NSLocationWhenInUseUsageDescription" : "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads.",
-                    "NSContactsUsageDescription" : "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
-                    "NSPhotoLibraryUsageDescription" : "This lets you upload media you've already created."
+                    "NSCameraUsageDescription": "This lets you create videos using the app.",
+                    "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites.",
+                    "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
+                    "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",
+                    "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
+                    "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
+                    "NSLocationWhenInUseUsageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads.",
+                    "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
+                    "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created."
                 }
             }
         },
@@ -170,7 +170,7 @@
                 "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YTMusicUltimate/screenshot_2.png",
                 "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YTMusicUltimate/screenshot_3.png",
                 "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YTMusicUltimate/screenshot_4.png"
-            ],     
+            ],
             "versions": [
                 {
                     "version": "8.33",
@@ -191,31 +191,31 @@
                     "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
                     "com.apple.developer.carplay-audio",
                     "com.apple.developer.associated-domains",
-                    "com.apple.developer.mediasetup"      
+                    "com.apple.developer.mediasetup"
                 ],
                 "privacy": {
-                    "NSBluetoothAlwaysUsageDescription" : "YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
-                    "NSBluetoothPeripheralUsageDescription" : "YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
-                    "NSCameraUsageDescription" : "To take a profile picture, allow YouTube Music to access your camera.",
-                    "NSContactsUsageDescription" : "This will allow you to invite your family into your membership plan.",
-                    "NSLocalNetworkUsageDescription" : "Access to your network allows YouTube Music to discover and connect to devices such as your TV.",
-                    "NSMicrophoneUsageDescription" : "This lets you include audio with your videos.",
-                    "NSPhotoLibraryAddUsageDescription" : "To save images, allow YouTube Music to access your photo library.",
-                    "NSPhotoLibraryUsageDescription" : "To choose a profile picture, allow YouTube Music to access your photos."
+                    "NSBluetoothAlwaysUsageDescription": "YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
+                    "NSBluetoothPeripheralUsageDescription": "YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
+                    "NSCameraUsageDescription": "To take a profile picture, allow YouTube Music to access your camera.",
+                    "NSContactsUsageDescription": "This will allow you to invite your family into your membership plan.",
+                    "NSLocalNetworkUsageDescription": "Access to your network allows YouTube Music to discover and connect to devices such as your TV.",
+                    "NSMicrophoneUsageDescription": "This lets you include audio with your videos.",
+                    "NSPhotoLibraryAddUsageDescription": "To save images, allow YouTube Music to access your photo library.",
+                    "NSPhotoLibraryUsageDescription": "To choose a profile picture, allow YouTube Music to access your photos."
                 }
             }
         }
     ],
     "news": [
         {
-            "title": "Spotify Update - 9.0.72\n21/08/2025",
+            "title": "Spotify Update - 9.0.78\n10/09/2025",
             "identifier": "spotify_update",
             "caption": "Spotify Premium Tweak Updated by Eevee",
-            "date": "2025-08-21",
+            "date": "2025-09-10",
             "tintColor": "#1FD362",
             "imageURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/EeveeSpotify/news.png",
             "notify": true,
-            "appID" : "com.spotify.client"
+            "appID": "com.spotify.client"
         },
         {
             "title": "YouTubePlus Update - 20.33.2\n20/08/2025",
@@ -225,7 +225,7 @@
             "tintColor": "#F90505",
             "imageURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YouTubePlus/news.png",
             "notify": true,
-            "appID" : "com.google.ios.youtube"
+            "appID": "com.google.ios.youtube"
         },
         {
             "title": "YTMusic Ultimate Update - 8.33\n21/08/2025",
@@ -235,7 +235,7 @@
             "tintColor": "#D3675A",
             "imageURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YTMusicUltimate/news.png",
             "notify": true,
-            "appID" : "com.google.ios.youtubemusic"
+            "appID": "com.google.ios.youtubemusic"
         }
     ]
 }
