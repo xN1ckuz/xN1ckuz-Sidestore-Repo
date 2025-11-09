@@ -22,13 +22,13 @@
     </tr>
     <tr>
       <td>🎵 <b>Spotify</b></td>
-      <td>9.0.78</td>
+      <td>9.0.91</td>
       <td>Partial Premium Features Unlocked</td>
       <td><a href="https://github.com/whoeevee/EeveeSpotifyReborn">Eevee</a></td>
     </tr>
     <tr>
       <td>📺 <b>YouTube</b></td>
-      <td>20.33.2</td>
+      <td>20.44.2</td>
       <td>Ad-Free, Background Playback</td>
       <td><a href="https://github.com/dayanch96/YTLite">dayanch96</a></td>
     </tr>
