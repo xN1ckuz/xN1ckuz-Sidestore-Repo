@@ -34,6 +34,14 @@
             ],
             "versions": [
                 {
+                    "version": "9.0.98",
+                    "date": "2025-11-20T20:48:48",
+                    "size": 91425056,
+                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/EeveeSpotify/EeveeSpotify-9.0.98.ipa",
+                    "localizedDescription": "• Updated Spotify to 9.0.98\n• Updated EeveeSpotify v6.2.2\n• OpenSpotifySafariExtension included",
+                    "minOSVersion": "16.1"
+                },
+                {
                     "version": "9.0.96",
                     "date": "2025-11-13T15:16:28",
                     "size": 90742292,
@@ -47,14 +55,6 @@
                     "size": 92241225,
                     "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/EeveeSpotify/EeveeSpotify-9.0.91.ipa",
                     "localizedDescription": "• Updated Spotify to 9.0.91\n• Updated EeveeSpotify v6.2\n• OpenSpotifySafariExtension included\n• Added support for Spotify 9.0.91 (new architecture and lyrics)\n• Fixed the plan overview screen\n• Fixed very high and lossless quality pop-ups\n• Fixed the issue with \"Recently played artists\" turning back on\n• Possibly fixed crashes related to lyrics\n• Updated Italian localization",
-                    "minOSVersion": "16.1"
-                },
-                {
-                    "version": "9.0.86",
-                    "date": "2025-10-10T16:33:26",
-                    "size": 91565383,
-                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/EeveeSpotify/EeveeSpotify-9.0.86.ipa",
-                    "localizedDescription": "• Updated Spotify to 9.0.86\n• Updated EeveeSpotify v6.1.6\n• OpenSpotifySafariExtension included\n• \"Songs play in random order\" should be fully fixed (reset data in the EeveeSpotify settings beforehand)",
                     "minOSVersion": "16.1"
                 }
             ],
@@ -216,10 +216,10 @@
     ],
     "news": [
         {
-            "title": "Spotify Update - 9.0.96\n13/11/2025",
+            "title": "Spotify Update - 9.0.98\n20/11/2025",
             "identifier": "spotify_update",
             "caption": "Spotify Premium Tweak Updated by Eevee",
-            "date": "2025-11-13",
+            "date": "2025-11-20",
             "tintColor": "#1FD362",
             "imageURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/EeveeSpotify/news.png",
             "notify": true,
