@@ -112,6 +112,14 @@
             ],
             "versions": [
                 {
+                    "version": "20.50.9",
+                    "date": "2025-12-17T18:10:55",
+                    "size": 124513387,
+                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YouTubePlus/YouTubePlus_20.50.9_5.2b4.ipa",
+                    "localizedDescription": "• Updated YouTube Plus to 20.50.9\n• Updated tweak 5.2b4",
+                    "minOSVersion": "16.0"
+                },
+                {
                     "version": "20.44.2",
                     "date": "2025-11-08T05:25:54",
                     "size": 123483446,
@@ -125,14 +133,6 @@
                     "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YouTubePlus/YouTubePlus_5.2b3_20.33.2.ipa",
                     "localizedDescription": "• Updated YouTube to 20.33.2\n• Updated Tweak to 5.2b3\n",
                     "size": 114000000,
-                    "minOSVersion": "16.0"
-                },
-                {
-                    "version": "20.32.5",
-                    "date": "2025-08-18T16:18:00+02:00",
-                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YouTubePlus/YouTubePlus_5.2b3_20.32.5.ipa",
-                    "localizedDescription": "• Updated YouTube to 20.32.5\n• Updated Tweak to 5.2b3\n",
-                    "size": 112000000,
                     "minOSVersion": "16.0"
                 }
             ],
@@ -180,6 +180,14 @@
                 "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YTMusicUltimate/screenshot_4.png"
             ],
             "versions": [
+                {
+                    "version": "8.50",
+                    "date": "2025-12-17T18:29:07",
+                    "size": 94500000,
+                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YTMusicUltimate/YTMusicUltimate_8.50_2.3.1.ipa",
+                    "localizedDescription": "• Updated YouTube Music Ultimate to 8.50\n• Updated tweak to v2.3.1\n• Fixed downloads tab not working\n• Fixed network permissions issue\n• Fixed sileo depictions",
+                    "minOSVersion": "16.0"
+                },
                 {
                     "version": "8.33",
                     "date": "2025-08-21T16:36:00+02:00",
