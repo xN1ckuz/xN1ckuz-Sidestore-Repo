@@ -181,7 +181,7 @@
             ],
             "versions": [
                 {
-                    "version": "8.50",
+                    "version": "8.50.2",
                     "date": "2025-12-17T18:29:07",
                     "size": 94500000,
                     "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YTMusicUltimate/YTMusicUltimate_8.50_2.3.1.ipa",
@@ -234,20 +234,20 @@
             "appID": "com.spotify.client"
         },
         {
-            "title": "YouTubePlus Update - 20.44.2\n08/11/2025",
+            "title": "YouTubePlus Update - 20.50.9\n17/12/2025",
             "identifier": "ytplus_update",
             "caption": "YouTubePlus Tweak Updated by Dayanch96",
-            "date": "2025-11-08",
+            "date": "2025-12-17",
             "tintColor": "#F90505",
             "imageURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YouTubePlus/news.png",
             "notify": true,
             "appID": "com.google.ios.youtube"
         },
         {
-            "title": "YTMusic Ultimate Update - 8.33\n21/08/2025",
+            "title": "YTMusic Ultimate Update - 8.50.2\n17/12/2025",
             "identifier": "ytmusic_update",
             "caption": "YTMusic Ultimate Tweak Updated by Dayanch96",
-            "date": "2025-08-21",
+            "date": "2025-12-17",
             "tintColor": "#D3675A",
             "imageURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YTMusicUltimate/news.png",
             "notify": true,
