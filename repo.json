@@ -34,27 +34,19 @@
             ],
             "versions": [
                 {
+                    "version": "9.1.48",
+                    "date": "2026-05-15T16:15:00",
+                    "size": 114177329,
+                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/EeveeSpotify/EeveeSpotify-9.1.48.ipa",
+                    "localizedDescription": "• Updated Spotify to 9.1.48\n• Updated Swift v6.6.3.1\n• OpenSpotifySafariExtension included",
+                    "minOSVersion": "16.1"
+                },
+                {
                     "version": "9.1.0",
                     "date": "2025-11-27T19:52:30",
                     "size": 92011146,
                     "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/EeveeSpotify/EeveeSpotify-9.1.0.ipa",
                     "localizedDescription": "• Updated Spotify to 9.1.0\n• Updated EeveeSpotify v6.2.2\n• OpenSpotifySafariExtension included",
-                    "minOSVersion": "16.1"
-                },
-                {
-                    "version": "9.0.98",
-                    "date": "2025-11-20T20:48:48",
-                    "size": 91425056,
-                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/EeveeSpotify/EeveeSpotify-9.0.98.ipa",
-                    "localizedDescription": "• Updated Spotify to 9.0.98\n• Updated EeveeSpotify v6.2.2\n• OpenSpotifySafariExtension included",
-                    "minOSVersion": "16.1"
-                },
-                {
-                    "version": "9.0.96",
-                    "date": "2025-11-13T15:16:28",
-                    "size": 90742292,
-                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/EeveeSpotify/EeveeSpotify-9.0.96.ipa",
-                    "localizedDescription": "• Updated Spotify to 9.0.96\n• Updated EeveeSpotify v6.2.2\n• OpenSpotifySafariExtension included\n• Fixed lyrics not displaying for local tracks\n• Fixed blank lyrics on app launch\n• Possibly fixed \"Songs play in random order\" (Reset Data in EeveeSpotify settings)",
                     "minOSVersion": "16.1"
                 }
             ],
