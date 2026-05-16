@@ -104,27 +104,19 @@
             ],
             "versions": [
                 {
+                    "version": "21.17.3",
+                    "date": "2026-05-01T16:17:00",
+                    "size": 129690215,
+                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YouTubePlus/YouTubePlus_21.17.3_5.2.1.ipa",
+                    "localizedDescription": "• Updated to 5.2.1\n• Working Casting Feature\n• YTUHD is partially working and depends on the sideloading method",
+                    "minOSVersion": "16.0"
+                },
+                {
                     "version": "20.50.9",
                     "date": "2025-12-17T18:10:55",
                     "size": 124513387,
                     "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YouTubePlus/YouTubePlus_20.50.9_5.2b4.ipa",
                     "localizedDescription": "• Updated YouTube Plus to 20.50.9\n• Updated tweak 5.2b4",
-                    "minOSVersion": "16.0"
-                },
-                {
-                    "version": "20.44.2",
-                    "date": "2025-11-08T05:25:54",
-                    "size": 123483446,
-                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YouTubePlus/YouTubePlus_20.44.2_5.2b4.ipa",
-                    "localizedDescription": "• Updated YouTube to 20.44.2\n• Updated YouTubePlus 5.2b4\n• Fixed Shorts overlay issues\n• Fixed playback issues\n• Fixed “Hold to speed” gesture in Shorts\n• Fixed big gap under progress bar when action bar is disabled\n• Fixed colored progress bar issues (now supports gradient color for watched progress)\n• Fixed issue where some buttons under the player were not hiding\n• Fixed transparent background in the “Explore” sidebar\n• Fixed hiding options in YouTube sheet and added ability to hide the “Feedback” element\n• Fixed crash on live videos when original captions were set as preferred\n• Fixed “Remember loop mode” not saving correctly\n• Added option to hide “Hype” and “Stop Ads” buttons under the player\n• Added option to hide YouTube snackbars (HUD messages in player)\n• Added option to hide Products in Shorts\n• Added option to remove Comment bar in Shorts\n• Added option to remove Audio button in Shorts\n• Added option to exclude auto-dubbed audio tracks from selection\n• Added \"Tap to seek gesture\" in Player settings\n• Added system theme support for YTPlus player toast (playback speed, brightness, volume)\n• Removed vibrancy effect from YTPlus player toast\n• Enabling iPad-style interface now also enables floating keyboard",
-                    "minOSVersion": "16.0"
-                },
-                {
-                    "version": "20.33.2",
-                    "date": "2025-08-20T19:35:00+02:00",
-                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YouTubePlus/YouTubePlus_5.2b3_20.33.2.ipa",
-                    "localizedDescription": "• Updated YouTube to 20.33.2\n• Updated Tweak to 5.2b3\n",
-                    "size": 114000000,
                     "minOSVersion": "16.0"
                 }
             ],
@@ -216,20 +208,20 @@
     ],
     "news": [
         {
-            "title": "Spotify Update - 9.1.0\n27/11/2025",
+            "title": "Spotify Update - 9.1.48\n16/05/2026",
             "identifier": "spotify_update",
             "caption": "Spotify Premium Tweak Updated by Eevee",
-            "date": "2025-11-27",
+            "date": "2025-05-16",
             "tintColor": "#1FD362",
             "imageURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/EeveeSpotify/news.png",
             "notify": true,
             "appID": "com.spotify.client"
         },
         {
-            "title": "YouTubePlus Update - 20.50.9\n17/12/2025",
+            "title": "YouTubePlus Update - 21.17.3\n01/05/2026",
             "identifier": "ytplus_update",
             "caption": "YouTubePlus Tweak Updated by Dayanch96",
-            "date": "2025-12-17",
+            "date": "2026-05-01",
             "tintColor": "#F90505",
             "imageURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YouTubePlus/news.png",
             "notify": true,
