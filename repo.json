@@ -209,7 +209,7 @@
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "SoCuul",
             "subtitle": "Instagram Plus Tweak.",
-            "localizedDescription": "A powerful enhancement for Instagram on iOS, adding extensive customization, privacy, download, and quality-of-life features.\nMain Features:\n• Hide ads, Meta AI, suggested users, suggested posts, suggested reels, and other unwanted content\n• Customize the interface: Reorder tabs, hide navigation tabs, enable Liquid Glass buttons, native color picker, teen app icons, and custom Notes themes\n• Feed & Reels controls: Disable autoplay, modify tap controls, always show progress scrubber, prevent doom scrolling, and customize Reels behavior\n• Download posts, reels, stories, profile pictures, and customize long-press gestures\n• Privacy features: Disable typing indicators, story seen receipts, screenshot detection, view-once limitations, and replay stories unlimited times\n• Message enhancements: Keep deleted messages, manually mark messages as seen, and disable instant creation\n• Confirmation prompts for likes, follows, reposts, calls, comments, voice messages, and other actions\n• Performance optimization: Automatically clears unnecessary cache folders to reduce app storage usage\nInstagram Plus preferences can be found in the Instagram Settings.",
+            "localizedDescription": "A powerful enhancement for Instagram on iOS, adding extensive customization, privacy, download, and quality-of-life features.\nMain Features:\n• Hide ads, Meta AI, suggested users, suggested posts, suggested reels, and other unwanted content\n• Customize the interface: Reorder tabs, hide navigation tabs, enable Liquid Glass buttons, native color picker, teen app icons, and custom Notes themes\n• Feed & Reels controls: Disable autoplay, modify tap controls, always show progress scrubber, prevent doom scrolling, and customize Reels behavior\n• Download posts, reels, stories, profile pictures, and customize long-press gestures\n• Privacy features: Disable typing indicators, story seen receipts, screenshot detection, view-once limitations, and replay stories unlimited times\n• Message enhancements: Keep deleted messages, manually mark messages as seen, and disable instant creation\n• Confirmation prompts for likes, follows, reposts, calls, comments, voice messages, and other actions\n• Performance optimization: Automatically clears unnecessary cache folders to reduce app storage usage\n• Instagram Plus preferences can be found in the Instagram Settings.",
             "iconURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/SCInstagram/icon.png",
             "tintColor": "#E1306C",
             "category": "Entertainment",
@@ -228,7 +228,7 @@
                     "date": "2026-03-01T00:00:00",
                     "size": 289011681,
                     "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/SCInstagram/SCInstagram_418.2.0_2.4.1.ipa",
-                    "localizedDescription": "• Updated SCInsta to 418.2.0\n• Updated tweak to v1.1.1\n• Hide MetaAIHides\n• Hide imagine background option in story editor\n• Hides AI restyle & rewrite during story creation",
+                    "localizedDescription": "• Updated SCInsta to 418.2.0\n• Updated tweak to v1.1.1\n• Hide MetaAI\n• Hide imagine background option in story editor\n• Hides AI restyle & rewrite during story creation",
                     "minOSVersion": "16.3"
                 }
             ],
@@ -301,9 +301,9 @@
             "appID": "com.google.ios.youtubemusic"
         },
         {
-            "title": "Instagram Premium Update - 418.2.0\n01/03/2026",
+            "title": "Instagram Plus Update - 418.2.0\n01/03/2026",
             "identifier": "instagram_update",
-            "caption": "Instagram Premium Tweak Updated by SoCuul",
+            "caption": "Instagram Plus Tweak Updated by SoCuul",
             "date": "2026-03-01",
             "tintColor": "#E1306C",
             "imageURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/SCInstagram/news.png",
