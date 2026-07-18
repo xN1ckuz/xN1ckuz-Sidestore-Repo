@@ -1,49 +1,25 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/Repo/repo_header.png" alt="xN1ckuz Sidestore Banner" />
-</p>
+# xN1ckuz SideStore Repo
 
-<p align="center"><a href="https://developer.apple.com/ios/"><img src="https://img.shields.io/badge/platform-iOS-black.svg" alt="Platform"></a> <a href="https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/issues"><img src="https://img.shields.io/github/issues-raw/xN1ckuz/xN1ckuz-Sidestore-Repo?color=black" alt="Open issues"></a></p>
+![xN1ckuz SideStore Banner](https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/Repo/repo_header.png)
 
-<p align="center">
-  <a href="https://tinyurl.com/xN1ckuz-SideBox">
-    <img src="https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/main/Resources/Repo/sidestore_badge.png" alt="Add to SideStore" width="200" />
-  </a>
-</p>
+[![Platform](https://img.shields.io/badge/platform-iOS-black.svg)](https://developer.apple.com/ios/)
+[![Open issues](https://img.shields.io/github/issues-raw/xN1ckuz/xN1ckuz-Sidestore-Repo?color=black)](https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/issues)
 
-<h2 align="center">🚀 Available Apps</h2>
+<a href="https://tinyurl.com/xN1ckuz-SideBox">
+  <img src="https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/main/Resources/Repo/sidestore_badge.png" alt="Add to SideStore" width="169">
+</a>
 
-<p align="center">
-  <table align="center">
-    <tr>
-      <th>App</th>
-      <th>Latest Version</th>
-      <th>Features</th>
-      <th>Owner</th>
-    </tr>
-    <tr>
-      <td>🎵 <b>Spotify</b></td>
-      <td>9.1.0</td>
-      <td>DISCONTINUED - Partial Premium Features Unlocked</td>
-      <td><a href="https://github.com/whoeevee/EeveeSpotifyReborn">Eevee</a></td>
-    </tr>
-    <tr>
-      <td>📺 <b>YouTube</b></td>
-      <td>20.50.9</td>
-      <td>Ad-Free, Background Playback</td>
-      <td><a href="https://github.com/dayanch96/YTLite">dayanch96</a></td>
-    </tr>
-    <tr>
-      <td>🎶 <b>YouTube Music</b></td>
-      <td>8.50.2</td>
-      <td>Ad-Free, Background Playback</td>
-      <td><a href="https://github.com/dayanch96/YTMusicUltimate">dayanch96</a></td>
-    </tr>
-  </table>
-</p>
+## 🚀 Available Apps
 
-<h2 align="center">⚠️ Notes & Disclaimer</h2>
+|App|Latest Version|Features|Owner|
+|---|:------------:|--------|-----|
+|🎵 **Spotify**|9.1.60|Partial Premium Features Unlocked|[Eevee](https://github.com/jaydenjcpy/EeveeSpotifyReincarnated)|
+|📺 **YouTube**|21.24.3|Ad-Free, Background Playback|[dayanch96](https://github.com/dayanch96/YTLite)|
+|🎶 **YouTube Music**|9.28.4|Ad-Free, Background Playback|[dayanch96](https://github.com/dayanch96/YTMusicUltimate)|
+|📸 **Instagram**|418.2.0|No Ads, Download Media, Extra Features|[SoCuul](https://github.com/SoCuul/SCInsta)|
 
-<p align="center">
-- Files are intended for personal use on devices you own.<br>
-- This repository is for <b>educational purposes only</b>. Use at your own risk.
-</p>
+
+## ⚠️ Notes & Disclaimer
+
+- Files are intended for personal use on devices you own.
+- This repository is for **educational purposes only**. Use at your own risk.
