@@ -9,7 +9,8 @@
     "featuredApps": [
         "com.spotify.client",
         "com.google.ios.youtube",
-        "com.google.ios.youtubemusic"
+        "com.google.ios.youtubemusic",
+        "com.burbn.instagram"
     ],
     "apps": [
         {
@@ -93,7 +94,7 @@
             "subtitle": "YouTube Premium Tweak.",
             "localizedDescription": "A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.\nMain Features:\n• Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n• Copy video, comment, and post information\n• Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n• Player settings: Gestures, default quality, preferred audio track\n• Save, Load and Restore settings. Clear cache once or automatically on app startup\n• Built-in SponsorBlock\nYouTube Plus preferences can be found in the YouTube Settings.",
             "iconURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YouTubePlus/icon.png",
-            "tintColor": "f90505",
+            "tintColor": "#F90505",
             "category": "Entertainment",
             "screenshots": [
                 "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YouTubePlus/screenshot_0.jpg",
@@ -182,7 +183,6 @@
             ],
             "appPermissions": {
                 "entitlements": [
-                    "",
                     "com.apple.developer.networking.wifi-info",
                     "com.apple.developer.siri",
                     "com.apple.developer.networking.multicast",
@@ -205,13 +205,13 @@
             }
         },
         {
-            "name": "Instagram Premium",
+            "name": "Instagram Plus",
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "SoCuul",
-            "subtitle": "Instagram No-Ads Tweak.",
+            "subtitle": "Instagram Plus Tweak.",
             "localizedDescription": "A powerful enhancement for Instagram on iOS, adding extensive customization, privacy, download, and quality-of-life features.\nMain Features:\n• Hide ads, Meta AI, suggested users, suggested posts, suggested reels, and other unwanted content\n• Customize the interface: Reorder tabs, hide navigation tabs, enable Liquid Glass buttons, native color picker, teen app icons, and custom Notes themes\n• Feed & Reels controls: Disable autoplay, modify tap controls, always show progress scrubber, prevent doom scrolling, and customize Reels behavior\n• Download posts, reels, stories, profile pictures, and customize long-press gestures\n• Privacy features: Disable typing indicators, story seen receipts, screenshot detection, view-once limitations, and replay stories unlimited times\n• Message enhancements: Keep deleted messages, manually mark messages as seen, and disable instant creation\n• Confirmation prompts for likes, follows, reposts, calls, comments, voice messages, and other actions\n• Performance optimization: Automatically clears unnecessary cache folders to reduce app storage usage\nInstagram Plus preferences can be found in the Instagram Settings.",
             "iconURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/SCInstagram/icon.png",
-            "tintColor": "#D3675A",
+            "tintColor": "#E1306C",
             "category": "Entertainment",
             "screenshots": [
                 "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/SCInstagram/screenshot_0.png",
@@ -224,35 +224,47 @@
             ],
             "versions": [
                 {
-                    "version": "9.28.4",
-                    "date": "2026-07-14T22:49:00",
-                    "size": 99391359,
-                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/SCInstagram/SCInstagram_9.28.4_2.4.1.ipa",
-                    "localizedDescription": "• Updated SCInstagram to 9.28.4\n• Updated tweak to v2.4.1",
-                    "minOSVersion": "16.0"
+                    "version": "418.2.0",
+                    "date": "2026-03-01T00:00:00",
+                    "size": 289011681,
+                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/SCInstagram/SCInstagram_418.2.0_2.4.1.ipa",
+                    "localizedDescription": "• Updated SCInsta to 418.2.0\n• Updated tweak to v1.1.1\n• Hide MetaAIHides\n• Hide imagine background option in story editor\n• Hides AI restyle & rewrite during story creation",
+                    "minOSVersion": "16.3"
                 }
             ],
             "appPermissions": {
                 "entitlements": [
-                    "",
-                    "com.apple.developer.networking.wifi-info",
-                    "com.apple.developer.siri",
-                    "com.apple.developer.networking.multicast",
-                    "com.apple.security.application-groups",
-                    "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
-                    "com.apple.developer.carplay-audio",
+                    "com.apple.developer.usernotifications.communication",
+                    "com.apple.developer.declared-age-range",
+                    "com.apple.developer.icloud-container-identifiers",
+                    "com.apple.developer.avfoundation.multitasking-camera-access",
+                    "aps-environment",
+                    "com.apple.developer.icloud-container-environment",
+                    "com.apple.developer.usernotifications.time-sensitive",
                     "com.apple.developer.associated-domains",
-                    "com.apple.developer.mediasetup"
+                    "com.apple.developer.networking.wifi-info",
+                    "keychain-access-groups",
+                    "com.apple.developer.ubiquity-container-identifiers",
+                    "com.apple.developer.storekit.request-data",
+                    "com.apple.developer.icloud-services",
+                    "com.apple.security.application-groups"
                 ],
                 "privacy": {
-                    "NSBluetoothAlwaysUsageDescription": "SCInstagram uses Bluetooth to locate and connect to Chromecast and other devices.",
-                    "NSBluetoothPeripheralUsageDescription": "SCInstagram uses Bluetooth to locate and connect to Chromecast and other devices.",
-                    "NSCameraUsageDescription": "To take a profile picture, allow SCInstagram to access your camera.",
-                    "NSContactsUsageDescription": "This will allow you to invite your family into your membership plan.",
-                    "NSLocalNetworkUsageDescription": "Access to your network allows SCInstagram to discover and connect to devices such as your TV.",
-                    "NSMicrophoneUsageDescription": "This lets you include audio with your videos.",
-                    "NSPhotoLibraryAddUsageDescription": "To save images, allow SCInstagram to access your photo library.",
-                    "NSPhotoLibraryUsageDescription": "To choose a profile picture, allow SCInstagram to access your photos."
+                    "NSBluetoothAlwaysUsageDescription": "This allows your phone to find and connect to the glasses using a Bluetooth connection.",
+                    "NSCalendarsUsageDescription": "This will let Instagram sync events to your calendar.",
+                    "NSCalendarsWriteOnlyAccessUsageDescription": "This will let Instagram sync events to your calendar.",
+                    "NSCameraUsageDescription": "Instagram uses your device's camera to do things like help you take photos, record videos and use effects.",
+                    "NSContactsUsageDescription": "Instagram will use your contacts to suggest people and things you care about, and offer a better service. Your contacts will be periodically synced and securely stored on Instagram’s servers.",
+                    "NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Instagram.",
+                    "NSFocusStatusUsageDescription": "This allows Instagram to check to see if you’ve been missing notifications from friends. You can always change this later in settings.",
+                    "NSLocalNetworkUsageDescription": "Used to discover and connect to compatible streaming devices on your Wi-Fi network.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+                    "NSLocationUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+                    "NSLocationWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+                    "NSMicrophoneUsageDescription": "Instagram uses your device's microphone to do things like help you record videos and preview audio effects.",
+                    "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your Camera Roll.",
+                    "NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share.",
+                    "NSUserTrackingUsageDescription": "This helps Instagram personalize ads we show you."
                 }
             }
         }
@@ -289,11 +301,11 @@
             "appID": "com.google.ios.youtubemusic"
         },
         {
-            "title": "Instagram Premium Update - 9.28.4\n14/07/2026",
+            "title": "Instagram Premium Update - 418.2.0\n01/03/2026",
             "identifier": "instagram_update",
-            "caption": "Instagram Premium Tweak Updated by Eevee",
-            "date": "2026-07-14",
-            "tintColor": "#1FD362",
+            "caption": "Instagram Premium Tweak Updated by SoCuul",
+            "date": "2026-03-01",
+            "tintColor": "#E1306C",
             "imageURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/SCInstagram/news.png",
             "notify": true,
             "appID": "com.burbn.instagram"
