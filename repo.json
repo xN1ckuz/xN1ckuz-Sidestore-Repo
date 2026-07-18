@@ -203,6 +203,58 @@
                     "NSPhotoLibraryUsageDescription": "To choose a profile picture, allow YouTube Music to access your photos."
                 }
             }
+        },
+        {
+            "name": "Instagram Premium",
+            "bundleIdentifier": "com.burbn.instagram",
+            "developerName": "SoCuul",
+            "subtitle": "Instagram No-Ads Tweak.",
+            "localizedDescription": "A powerful enhancement for Instagram on iOS, adding extensive customization, privacy, download, and quality-of-life features.\nMain Features:\n• Hide ads, Meta AI, suggested users, suggested posts, suggested reels, and other unwanted content\n• Customize the interface: Reorder tabs, hide navigation tabs, enable Liquid Glass buttons, native color picker, teen app icons, and custom Notes themes\n• Feed & Reels controls: Disable autoplay, modify tap controls, always show progress scrubber, prevent doom scrolling, and customize Reels behavior\n• Download posts, reels, stories, profile pictures, and customize long-press gestures\n• Privacy features: Disable typing indicators, story seen receipts, screenshot detection, view-once limitations, and replay stories unlimited times\n• Message enhancements: Keep deleted messages, manually mark messages as seen, and disable instant creation\n• Confirmation prompts for likes, follows, reposts, calls, comments, voice messages, and other actions\n• Performance optimization: Automatically clears unnecessary cache folders to reduce app storage usage\nInstagram Plus preferences can be found in the Instagram Settings.",
+            "iconURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/SCInstagram/icon.png",
+            "tintColor": "#D3675A",
+            "category": "Entertainment",
+            "screenshots": [
+                "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/SCInstagram/screenshot_0.png",
+                "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/SCInstagram/screenshot_1.png",
+                "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/SCInstagram/screenshot_2.png",
+                "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/SCInstagram/screenshot_3.png",
+                "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/SCInstagram/screenshot_4.png",
+                "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/SCInstagram/screenshot_5.png",
+                "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/SCInstagram/screenshot_6.png"
+            ],
+            "versions": [
+                {
+                    "version": "9.28.4",
+                    "date": "2026-07-14T22:49:00",
+                    "size": 99391359,
+                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/SCInstagram/SCInstagram_9.28.4_2.4.1.ipa",
+                    "localizedDescription": "• Updated SCInstagram to 9.28.4\n• Updated tweak to v2.4.1",
+                    "minOSVersion": "16.0"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "",
+                    "com.apple.developer.networking.wifi-info",
+                    "com.apple.developer.siri",
+                    "com.apple.developer.networking.multicast",
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
+                    "com.apple.developer.carplay-audio",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.mediasetup"
+                ],
+                "privacy": {
+                    "NSBluetoothAlwaysUsageDescription": "SCInstagram uses Bluetooth to locate and connect to Chromecast and other devices.",
+                    "NSBluetoothPeripheralUsageDescription": "SCInstagram uses Bluetooth to locate and connect to Chromecast and other devices.",
+                    "NSCameraUsageDescription": "To take a profile picture, allow SCInstagram to access your camera.",
+                    "NSContactsUsageDescription": "This will allow you to invite your family into your membership plan.",
+                    "NSLocalNetworkUsageDescription": "Access to your network allows SCInstagram to discover and connect to devices such as your TV.",
+                    "NSMicrophoneUsageDescription": "This lets you include audio with your videos.",
+                    "NSPhotoLibraryAddUsageDescription": "To save images, allow SCInstagram to access your photo library.",
+                    "NSPhotoLibraryUsageDescription": "To choose a profile picture, allow SCInstagram to access your photos."
+                }
+            }
         }
     ],
     "news": [
@@ -235,6 +287,16 @@
             "imageURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YTMusicUltimate/news.png",
             "notify": true,
             "appID": "com.google.ios.youtubemusic"
+        },
+        {
+            "title": "Instagram Premium Update - 9.28.4\n14/07/2026",
+            "identifier": "instagram_update",
+            "caption": "Instagram Premium Tweak Updated by Eevee",
+            "date": "2026-07-14",
+            "tintColor": "#1FD362",
+            "imageURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/SCInstagram/news.png",
+            "notify": true,
+            "appID": "com.burbn.instagram"
         }
     ]
 }
