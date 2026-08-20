@@ -35,19 +35,19 @@
             ],
             "versions": [
                 {
+                    "version": "9.1.74",
+                    "date": "2026-08-19T15:47:03",
+                    "size": 130340595,
+                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/EeveeSpotify/EeveeSpotify-9.1.74.ipa",
+                    "localizedDescription": "• Updated Spotify to 9.1.78\n• Updated Swift v6.6.8\n• OpenSpotifySafariExtension included\n• Added Clean Share Links\n• Added Prank for my friend",
+                    "minOSVersion": "16.1"
+                },
+                {
                     "version": "9.1.60",
                     "date": "2026-07-09T15:04:00",
                     "size": 124448466,
                     "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/EeveeSpotify/EeveeSpotify-9.1.60.ipa",
                     "localizedDescription": "• Updated Spotify to 9.1.60\n• Updated Swift v6.6.6\n• OpenSpotifySafariExtension included",
-                    "minOSVersion": "16.1"
-                },
-                {
-                    "version": "9.1.58",
-                    "date": "2026-06-20T20:20:00",
-                    "size": 123454398,
-                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/EeveeSpotify/EeveeSpotify-9.1.58.ipa",
-                    "localizedDescription": "• Updated Spotify to 9.1.58\n• Updated Swift v6.6.5\n• OpenSpotifySafariExtension included\n• Improved LRCLIB lyrics\n• New Icons",
                     "minOSVersion": "16.1"
                 }
             ],
@@ -165,19 +165,19 @@
             ],
             "versions": [
                 {
+                    "version": "9.33.3",
+                    "date": "2026-08-18T09:17:00",
+                    "size": 102367696,
+                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YTMusicUltimate/YTMusicUltimate_9.33.3_2.4.1.ipa",
+                    "localizedDescription": "• Updated YouTube Music Ultimate to 9.33.3\n• Updated tweak to v2.4.1",
+                    "minOSVersion": "16.0"
+                },
+                {
                     "version": "9.28.4",
                     "date": "2026-07-14T22:49:00",
                     "size": 99391359,
                     "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YTMusicUltimate/YTMusicUltimate_9.28.4_2.4.1.ipa",
                     "localizedDescription": "• Updated YouTube Music Ultimate to 9.28.4\n• Updated tweak to v2.4.1",
-                    "minOSVersion": "16.0"
-                },
-                {
-                    "version": "9.24.3",
-                    "date": "2026-06-16T00:45:00",
-                    "size": 95753013,
-                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YTMusicUltimate/YTMusicUltimate_9.24.3_2.4.1.ipa",
-                    "localizedDescription": "• Updated YouTube Music Ultimate to 9.24.3\n• Updated tweak to v2.4.1",
                     "minOSVersion": "16.0"
                 }
             ],
@@ -271,10 +271,10 @@
     ],
     "news": [
         {
-            "title": "Spotify Update - 9.1.60\n09/07/2026",
+            "title": "Spotify Update - 9.1.74\n15/08/2026",
             "identifier": "spotify_update",
             "caption": "Spotify Premium Tweak Updated by Eevee",
-            "date": "2026-07-09",
+            "date": "2026-08-15",
             "tintColor": "#1FD362",
             "imageURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/EeveeSpotify/news.png",
             "notify": true,
@@ -291,10 +291,10 @@
             "appID": "com.google.ios.youtube"
         },
         {
-            "title": "YTMusic Ultimate Update - 9.28.4\n14/07/2026",
+            "title": "YTMusic Ultimate Update - 9.33.3\n18/08/2026",
             "identifier": "ytmusic_update",
             "caption": "YTMusic Ultimate Tweak Updated by Dayanch96",
-            "date": "2026-07-14",
+            "date": "2026-08-18",
             "tintColor": "#D3675A",
             "imageURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YTMusicUltimate/news.png",
             "notify": true,
