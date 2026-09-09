@@ -110,14 +110,6 @@
                     "size": 128835584,
                     "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YouTubePlus/YouTubePlus_21.24.3_5.2.2.ipa",
                     "localizedDescription": "• Updated Tweak to 5.2.2\n• Working Casting Feature\n• YTUHD is back now (you can view 4K videos in download manager)\n• Functional download manager.\n• +21.25.5 versions are not supported"
-                },
-                {
-                    "version": "21.24.3",
-                    "date": "2026-06-15T02:31:00",
-                    "size": 129690215,
-                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YouTubePlus/YouTubePlus_21.24.3_5.2.1.ipa",
-                    "localizedDescription": "• Updated to 5.2.1\n• Working Casting Feature\n• YTUHD is partially working and depends on the sideloading method",
-                    "minOSVersion": "16.0"
                 }
             ],
             "appPermissions": {
