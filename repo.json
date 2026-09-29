@@ -105,6 +105,13 @@
             ],
             "versions": [
                 {
+                    "version": "21.39.4",
+                    "date": "2026-09-28T12:51:00",
+                    "size": 148152391,
+                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YouTubePlus/YouTubePlus_21.39.4_6.0b1.ipa",
+                    "localizedDescription": "• Updated Tweak to 6.0b1\n"
+                },
+                {
                     "version": "21.24.3",
                     "date": "2026-07-17T16:05:00",
                     "size": 128835584,
@@ -157,19 +164,19 @@
             ],
             "versions": [
                 {
+                    "version": "9.39.2",
+                    "date": "2026-09-26T20:24:00",
+                    "size": 105625853,
+                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YTMusicUltimate/YTMusicUltimate_9.39.2_2.4.1.ipa",
+                    "localizedDescription": "• Updated YouTube Music Ultimate to 9.39.2\n• Updated tweak to v2.4.1",
+                    "minOSVersion": "16.0"
+                },
+                {
                     "version": "9.36.1",
                     "date": "2026-09-13T07:18:00",
                     "size": 104992686,
                     "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YTMusicUltimate/YTMusicUltimate_9.36.1_2.4.1.ipa",
                     "localizedDescription": "• Updated YouTube Music Ultimate to 9.36.1\n• Updated tweak to v2.4.1",
-                    "minOSVersion": "16.0"
-                },
-                {
-                    "version": "9.33.3",
-                    "date": "2026-08-18T09:17:00",
-                    "size": 102367696,
-                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YTMusicUltimate/YTMusicUltimate_9.33.3_2.4.1.ipa",
-                    "localizedDescription": "• Updated YouTube Music Ultimate to 9.33.3\n• Updated tweak to v2.4.1",
                     "minOSVersion": "16.0"
                 }
             ],
@@ -273,20 +280,20 @@
             "appID": "com.spotify.client"
         },
         {
-            "title": "YouTubePlus Update - 21.24.3\n17/07/2026",
+            "title": "YouTubePlus Update - 21.39.4\n28/09/2026",
             "identifier": "ytplus_update",
             "caption": "YouTubePlus Tweak Updated by Dayanch96",
-            "date": "2026-07-17",
+            "date": "2026-09-28",
             "tintColor": "#F90505",
             "imageURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YouTubePlus/news.png",
             "notify": true,
             "appID": "com.google.ios.youtube"
         },
         {
-            "title": "YTMusic Ultimate Update - 9.36.1\n13/09/2026",
+            "title": "YTMusic Ultimate Update - 9.39.2\n26/09/2026",
             "identifier": "ytmusic_update",
             "caption": "YTMusic Ultimate Tweak Updated by Dayanch96",
-            "date": "2026-09-13",
+            "date": "2026-09-26",
             "tintColor": "#D3675A",
             "imageURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YTMusicUltimate/news.png",
             "notify": true,

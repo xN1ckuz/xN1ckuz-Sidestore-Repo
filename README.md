@@ -14,8 +14,8 @@
 |App|Latest Version|Features|Owner|
 |---|:------------:|--------|-----|
 |🎵 **Spotify**|9.1.80|Partial Premium Features Unlocked|[Eevee](https://github.com/jaydenjcpy/EeveeSpotifyReincarnated)|
-|📺 **YouTube**|21.24.3|Ad-Free, Background Playback|[dayanch96](https://github.com/dayanch96/YTLite)|
-|🎶 **YouTube Music**|9.36.1|Ad-Free, Background Playback|[dayanch96](https://github.com/dayanch96/YTMusicUltimate)|
+|📺 **YouTube**|21.39.4|Ad-Free, Background Playback|[dayanch96](https://github.com/dayanch96/YTLite)|
+|🎶 **YouTube Music**|9.39.2|Ad-Free, Background Playback|[dayanch96](https://github.com/dayanch96/YTMusicUltimate)|
 |📸 **Instagram**|418.2.0|No Ads, Download Media, Extra Features|[SoCuul](https://github.com/SoCuul/SCInsta)|
 
 
