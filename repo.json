@@ -35,19 +35,19 @@
             ],
             "versions": [
                 {
+                    "version": "9.1.94",
+                    "date": "2026-10-24T16:43:00",
+                    "size": 127401909,
+                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/EeveeSpotify/EeveeSpotify-9.1.94.ipa",
+                    "localizedDescription": "• Updated Spotify to 9.1.94\n• Updated Tweak to v7.0.0\n• OpenSpotifySafariExtension included\n",
+                    "minOSVersion": "16.1"
+                },
+                {
                     "version": "9.1.80",
                     "date": "2026-09-09T13:38:00",
                     "size": 132087025,
                     "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/EeveeSpotify/EeveeSpotify-9.1.80.ipa",
                     "localizedDescription": "• Updated Spotify to 9.1.80\n• Updated Swift v6.6.8\n• OpenSpotifySafariExtension included",
-                    "minOSVersion": "16.1"
-                },
-                {
-                    "version": "9.1.74",
-                    "date": "2026-08-19T15:47:03",
-                    "size": 130340595,
-                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/EeveeSpotify/EeveeSpotify-9.1.74.ipa",
-                    "localizedDescription": "• Updated Spotify to 9.1.74\n• Updated Swift v6.6.8\n• OpenSpotifySafariExtension included\n• Added Clean Share Links\n• Added Prank for my friend",
                     "minOSVersion": "16.1"
                 }
             ],
@@ -105,18 +105,18 @@
             ],
             "versions": [
                 {
+                    "version": "21.44.4",
+                    "date": "2026-11-03T14:57:00",
+                    "size": 151399565,
+                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YouTubePlus/YouTubePlus_21.44.4_6.0.ipa",
+                    "localizedDescription": "• Updated Tweak to 6.0\n• Updated YT build\n"
+                },
+                {
                     "version": "21.39.4",
                     "date": "2026-09-28T12:51:00",
                     "size": 148152391,
                     "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YouTubePlus/YouTubePlus_21.39.4_6.0b1.ipa",
                     "localizedDescription": "• Updated Tweak to 6.0b1\n"
-                },
-                {
-                    "version": "21.24.3",
-                    "date": "2026-07-17T16:05:00",
-                    "size": 128835584,
-                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YouTubePlus/YouTubePlus_21.24.3_5.2.2.ipa",
-                    "localizedDescription": "• Updated Tweak to 5.2.2\n• Working Casting Feature\n• YTUHD is back now (you can view 4K videos in download manager)\n• Functional download manager.\n• +21.25.5 versions are not supported"
                 }
             ],
             "appPermissions": {
@@ -164,19 +164,19 @@
             ],
             "versions": [
                 {
+                    "version": "9.44.2",
+                    "date": "2026-11-03T14:57:00",
+                    "size": 106935114,
+                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YTMusicUltimate/YTMusicUltimate_9.44.2_2.4.1.ipa",
+                    "localizedDescription": "• Updated YouTube Music Ultimate to 9.44.2\n• Updated tweak to v2.4.1",
+                    "minOSVersion": "16.0"
+                },
+                {
                     "version": "9.39.2",
                     "date": "2026-09-26T20:24:00",
                     "size": 105625853,
                     "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YTMusicUltimate/YTMusicUltimate_9.39.2_2.4.1.ipa",
                     "localizedDescription": "• Updated YouTube Music Ultimate to 9.39.2\n• Updated tweak to v2.4.1",
-                    "minOSVersion": "16.0"
-                },
-                {
-                    "version": "9.36.1",
-                    "date": "2026-09-13T07:18:00",
-                    "size": 104992686,
-                    "downloadURL": "https://github.com/xN1ckuz/xN1ckuz-Sidestore-Repo/raw/refs/heads/main/IPAs/YTMusicUltimate/YTMusicUltimate_9.36.1_2.4.1.ipa",
-                    "localizedDescription": "• Updated YouTube Music Ultimate to 9.36.1\n• Updated tweak to v2.4.1",
                     "minOSVersion": "16.0"
                 }
             ],
@@ -270,30 +270,30 @@
     ],
     "news": [
         {
-            "title": "Spotify Update - 9.1.80\n09/09/2026",
+            "title": "Spotify Update - 9.1.94\n07/11/2026",
             "identifier": "spotify_update",
             "caption": "Spotify Premium Tweak Updated by Eevee",
-            "date": "2026-09-09",
+            "date": "2026-11-07",
             "tintColor": "#1FD362",
             "imageURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/EeveeSpotify/news.png",
             "notify": true,
             "appID": "com.spotify.client"
         },
         {
-            "title": "YouTubePlus Update - 21.39.4\n28/09/2026",
+            "title": "YouTubePlus Update - 21.44.4\n07/11/2026",
             "identifier": "ytplus_update",
             "caption": "YouTubePlus Tweak Updated by Dayanch96",
-            "date": "2026-09-28",
+            "date": "2026-11-07",
             "tintColor": "#F90505",
             "imageURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YouTubePlus/news.png",
             "notify": true,
             "appID": "com.google.ios.youtube"
         },
         {
-            "title": "YTMusic Ultimate Update - 9.39.2\n26/09/2026",
+            "title": "YTMusic Ultimate Update - 9.44.2\n07/11/2026",
             "identifier": "ytmusic_update",
             "caption": "YTMusic Ultimate Tweak Updated by Dayanch96",
-            "date": "2026-09-26",
+            "date": "2026-11-07",
             "tintColor": "#D3675A",
             "imageURL": "https://raw.githubusercontent.com/xN1ckuz/xN1ckuz-Sidestore-Repo/refs/heads/main/Resources/YTMusicUltimate/news.png",
             "notify": true,
